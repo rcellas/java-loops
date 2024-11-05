@@ -6,7 +6,6 @@ Este archivo contiene varios ejercicios para poder practicar el uso de bucles. D
 1. ForLoops
 2. WhileLoops
 3. LogIn
-4. StrawberryFields
 
 ### Instrucciones
 1. Has un fork del repositorio del ejercicio (enlace en Notion)
